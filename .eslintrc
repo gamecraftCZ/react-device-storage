@@ -1,6 +1,4 @@
 {
-  "esversion": 6,
-
   "ecmaFeatures": {
     "globalReturn": true,
     "jsx": true,
